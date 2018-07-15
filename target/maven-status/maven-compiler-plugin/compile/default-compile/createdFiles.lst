@@ -1,0 +1,16 @@
+com\dilip\stream\predicateimpl.class
+com\dilip\stream\TestSorting.class
+com\dilip\stream\StreamMethod.class
+com\dilip\stream\ForEachMap.class
+com\dilip\stream\ReductionExample.class
+com\dilip\stream\User.class
+com\dilip\stream\StreamTest.class
+com\dilip\stream\Developer.class
+com\dilip\stream\CollectorsExample.class
+com\dilip\stream\Person.class
+com\dilip\stream\IntermediaryAndFinal.class
+com\dilip\stream\FlatMapExample.class
+com\dilip\stream\FirstPredicates.class
+com\dilip\stream\forEachList.class
+com\dilip\stream\FunctionalInterfaceDemo.class
+com\dilip\stream\FilterFindFirstAndForEach.class
