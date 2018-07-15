@@ -1,4 +1,4 @@
-package com.interview.java8feture;
+/*package com.interview.java8feture;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -14,3 +14,4 @@ public class Java8FetureApplicationTests {
 	}
 
 }
+*/

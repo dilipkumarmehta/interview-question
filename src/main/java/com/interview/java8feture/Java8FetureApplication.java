@@ -1,4 +1,4 @@
-package com.interview.java8feture;
+/*package com.interview.java8feture;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,3 +10,4 @@ public class Java8FetureApplication {
 		SpringApplication.run(Java8FetureApplication.class, args);
 	}
 }
+*/
