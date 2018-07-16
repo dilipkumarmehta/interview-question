@@ -8,6 +8,7 @@ public class DedLoc {
 		t2.start();
 	}
 }
+ 
 
 class Test {
 	public synchronized void show(Test1 t1) {
