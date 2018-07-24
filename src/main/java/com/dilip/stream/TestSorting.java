@@ -25,7 +25,6 @@ public class TestSorting {
 		 * @Override public int compare(Developer o1, Developer o2) { return
 		 * o1.getAge() - o2.getAge(); } });
 		 */
-
 		listDevs.sort((Developer o1, Developer o2) -> o1.getAge() - o2.getAge());
 		
 		listDevs.forEach((devloper) ->System.out.println(devloper));
