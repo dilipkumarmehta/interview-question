@@ -7,6 +7,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -14,6 +15,7 @@ public class ReadingFile {
 
 	public static void main(String[] args) {
 		String path = "D:\\myfiles\\hello.txt";
+		
 		File file = new File(path);
 		wordCount(file);
 	}
@@ -44,6 +46,7 @@ public class ReadingFile {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+		Collections.sort(list);
 
 	}
 }
