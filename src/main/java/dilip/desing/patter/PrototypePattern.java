@@ -7,6 +7,7 @@ public class PrototypePattern {
 		Student instance = (Student) s.getInstance();
 		System.out.println(s);
 		System.out.println(instance);
+		System.out.println("dfdsf");
 	}
 }
 
