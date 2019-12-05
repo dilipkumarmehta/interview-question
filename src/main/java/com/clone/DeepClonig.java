@@ -3,6 +3,9 @@ package com.clone;
 public class DeepClonig {
 	public static void main(String[] args) throws CloneNotSupportedException {
 		Test1 t1 = new Test1(20);
+		System.out.println();
+		System.out.println();
+		System.out.println();
 		Test t = new Test(10, t1);
 		System.out.println(t.test.j);
 		System.out.println(t.a);
