@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.interview</groupId>
-	<artifactId>java8-feture</artifactId>
+	<artifactId>intervew-question</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>java8-feture</name>
+	<name>intervew-question</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
