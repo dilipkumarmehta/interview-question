@@ -1,5 +1,5 @@
 package dilip.desing.patter;
-public class Prototype {
+public class PrototypePattern {
 
 	public static void main(String[] args) {
 		Student s = new Student(1, "dilip");
