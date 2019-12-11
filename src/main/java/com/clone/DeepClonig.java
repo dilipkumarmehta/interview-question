@@ -3,7 +3,6 @@ package com.clone;
 public class DeepClonig {
 	public static void main(String[] args) throws CloneNotSupportedException {
 		Test1 t1 = new Test1(20);
-		System.out.println(t2.a);
 		System.out.println();
 		System.out.println();
 		System.out.println();
@@ -26,10 +25,10 @@ class Test implements Cloneable {
 	}
 
 	public Object clone() throws CloneNotSupportedException {
-		Test1 test1=new Test1(test.j); 
+		Test1 test1 = new Test1(test.j);
 		Test t = new Test(a, test1);
 		return t;
-		
+
 	}
 }
 
@@ -40,5 +39,5 @@ class Test1 {
 		super();
 		this.j = j;
 	}
-	
+
 }
